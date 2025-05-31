@@ -24,7 +24,8 @@ To build an interactive HR analytics dashboard that helps HR professionals and l
   - Satisfaction Level Distribution
 
 > 🔗 *Dashboard Snapshot:*  
-![HR Dashboard Sample](https://github.com/user-attachments/assets/sample-image-link)
+![HR Analystics Dashboard](https://github.com/user-attachments/assets/9c659731-8955-4d39-83bd-f0dd8799c24b)
+
 
 ## 🔄 Process  
 - Data cleaning and preprocessing in Excel (null handling, formatting, transformation)
