@@ -6,6 +6,7 @@ To build an interactive HR analytics dashboard that helps HR professionals and l
 
 ## 📂 Project File  
 - [Download Tableau Dashboard File](./HR%20ANALYTICS%20DASHBOARD.twbx)
+- LINK : https://public.tableau.com/views/Book1_17479451248860/HRANALYTICSDASHBOARD?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## ❓ Key Questions Addressed  
 - What is the gender distribution in the company?
